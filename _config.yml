@@ -10,6 +10,12 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             en_US
 url:                https://taylantatli.github.io/Moon
 
+host: 0.0.0.0  
+encoding: utf-8
+safe: False
+permalink: /:year/:month/:day/:title.html
+timezone: Asia/Chongqing
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown
